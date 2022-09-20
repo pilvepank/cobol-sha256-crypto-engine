@@ -18,3 +18,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-09-11** `[015]`: docs: create changelog tracking ledger
 - **2022-09-14** `[016]`: docs: add directory layout conventions
 - **2022-09-17** `[017]`: feat(schema): declare common return status codes
+- **2022-09-20** `[018]`: docs: outline test strategy and assertion principles

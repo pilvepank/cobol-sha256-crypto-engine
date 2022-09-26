@@ -20,3 +20,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-09-17** `[017]`: feat(schema): declare common return status codes
 - **2022-09-20** `[018]`: docs: outline test strategy and assertion principles
 - **2022-09-23** `[019]`: chore: tag v0.1.0-alpha architecture milestone
+- **2022-09-26** `[020]`: Merge pull request #1 from pilvepank/init-architecture

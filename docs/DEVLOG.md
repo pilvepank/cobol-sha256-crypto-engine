@@ -22,3 +22,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-09-23** `[019]`: chore: tag v0.1.0-alpha architecture milestone
 - **2022-09-26** `[020]`: Merge pull request #1 from pilvepank/init-architecture
 - **2022-09-29** `[021]`: feat(schema): scaffold SHA256-CONSTANTS.cpy record layout and header fields
+- **2022-10-01** `[022]`: feat(schema): add secondary payload fields and attributes to SHA256-CONSTANTS.cpy

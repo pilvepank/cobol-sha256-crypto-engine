@@ -23,3 +23,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-09-26** `[020]`: Merge pull request #1 from pilvepank/init-architecture
 - **2022-09-29** `[021]`: feat(schema): scaffold SHA256-CONSTANTS.cpy record layout and header fields
 - **2022-10-01** `[022]`: feat(schema): add secondary payload fields and attributes to SHA256-CONSTANTS.cpy
+- **2022-10-04** `[023]`: refactor(schema): optimize numeric types using COMP-5 / COMP-3 in SHA256-CONSTANTS.cpy

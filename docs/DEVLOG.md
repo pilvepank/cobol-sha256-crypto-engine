@@ -25,3 +25,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-10-01** `[022]`: feat(schema): add secondary payload fields and attributes to SHA256-CONSTANTS.cpy
 - **2022-10-04** `[023]`: refactor(schema): optimize numeric types using COMP-5 / COMP-3 in SHA256-CONSTANTS.cpy
 - **2022-10-07** `[024]`: feat(schema): declare 88-level condition names and validation states in SHA256-CONSTANTS.cpy
+- **2022-10-10** `[025]`: docs(schema): document byte offsets and alignment boundaries for SHA256-CONSTANTS.cpy

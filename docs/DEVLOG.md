@@ -36,3 +36,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-11-02** `[033]`: feat(crypto): scaffold sha256_engine.cbl identification and environment division
 - **2022-11-05** `[034]`: feat(crypto): configure SPECIAL-NAMES DECIMAL-POINT IS COMMA
 - **2022-11-08** `[035]`: feat(crypto): declare working-storage state buffers and accumulator registers
+- **2022-11-11** `[036]`: feat(crypto): declare internal lookup tables and binary index pointers

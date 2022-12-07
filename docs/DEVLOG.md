@@ -45,3 +45,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-11-28** `[042]`: feat(crypto): implement secondary state transition paragraph
 - **2022-12-01** `[043]`: feat(crypto): implement queue eviction and index compaction logic
 - **2022-12-04** `[044]`: refactor(crypto): replace sequential search with binary search
+- **2022-12-07** `[045]`: fix(crypto): correct off-by-one boundary underflow in index calculation

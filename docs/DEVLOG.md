@@ -46,3 +46,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-12-01** `[043]`: feat(crypto): implement queue eviction and index compaction logic
 - **2022-12-04** `[044]`: refactor(crypto): replace sequential search with binary search
 - **2022-12-07** `[045]`: fix(crypto): correct off-by-one boundary underflow in index calculation
+- **2022-12-10** `[046]`: Merge pull request #10 from pilvepank/fix-boundary-underflow

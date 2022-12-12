@@ -47,3 +47,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2022-12-04** `[044]`: refactor(crypto): replace sequential search with binary search
 - **2022-12-07** `[045]`: fix(crypto): correct off-by-one boundary underflow in index calculation
 - **2022-12-10** `[046]`: Merge pull request #10 from pilvepank/fix-boundary-underflow
+- **2022-12-12** `[047]`: feat(crypto): implement state serialization and snapshot persistence

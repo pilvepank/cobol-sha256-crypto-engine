@@ -58,3 +58,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-01-04** `[055]`: docs(crypto): document engine execution lifecycle in docs/SPECIFICATION.md
 - **2023-01-07** `[056]`: chore(crypto): tag v0.5.0-beta core engine milestone
 - **2023-01-10** `[057]`: Merge pull request #10 from pilvepank/engine-baseline
+- **2023-01-13** `[058]`: feat(crypto): scaffold sha256_sub.cbl identification and environment division

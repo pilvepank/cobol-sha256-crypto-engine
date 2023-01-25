@@ -62,3 +62,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-01-16** `[059]`: feat(crypto): configure SPECIAL-NAMES DECIMAL-POINT IS COMMA
 - **2023-01-19** `[060]`: feat(crypto): declare working-storage state buffers and accumulator registers
 - **2023-01-22** `[061]`: feat(crypto): declare internal lookup tables and binary index pointers
+- **2023-01-25** `[062]`: feat(crypto): implement 0000-MAIN entry point and dispatch control loop

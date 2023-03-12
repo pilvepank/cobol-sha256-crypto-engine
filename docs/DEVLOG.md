@@ -78,3 +78,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-03-03** `[075]`: perf(crypto): eliminate intermediate arithmetic variables to reduce register spill
 - **2023-03-06** `[076]`: refactor(crypto): standardize paragraph naming and PERFORM THRU boundaries
 - **2023-03-09** `[077]`: fix(crypto): handle zero-quantity edge case without state corruption
+- **2023-03-12** `[078]`: Merge pull request #19 from pilvepank/fix-zero-qty

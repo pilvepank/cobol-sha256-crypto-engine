@@ -80,3 +80,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-03-09** `[077]`: fix(crypto): handle zero-quantity edge case without state corruption
 - **2023-03-12** `[078]`: Merge pull request #19 from pilvepank/fix-zero-qty
 - **2023-03-15** `[079]`: feat(crypto): add audit trail event logging and transaction counter
+- **2023-03-17** `[080]`: docs(crypto): document engine execution lifecycle in docs/SPECIFICATION.md

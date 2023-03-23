@@ -82,3 +82,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-03-15** `[079]`: feat(crypto): add audit trail event logging and transaction counter
 - **2023-03-17** `[080]`: docs(crypto): document engine execution lifecycle in docs/SPECIFICATION.md
 - **2023-03-20** `[081]`: chore(crypto): tag v0.5.0-beta core engine milestone
+- **2023-03-23** `[082]`: Merge pull request #19 from pilvepank/engine-baseline

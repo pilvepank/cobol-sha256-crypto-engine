@@ -85,3 +85,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-03-23** `[082]`: Merge pull request #19 from pilvepank/engine-baseline
 - **2023-03-26** `[083]`: feat(crypto): scaffold sha256_helper.c identification and environment division
 - **2023-03-29** `[084]`: feat(crypto): configure SPECIAL-NAMES DECIMAL-POINT IS COMMA
+- **2023-04-01** `[085]`: feat(crypto): declare working-storage state buffers and accumulator registers

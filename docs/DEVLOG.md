@@ -109,3 +109,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-05-31** `[106]`: test(sha256): add test scenario 4 - state persistence roundtrip fidelity
 - **2023-06-03** `[107]`: test(sha256): add test scenario 5 - concurrent interleaved execution invariant
 - **2023-06-06** `[108]`: test(sha256): format summary table and pass/fail assertion reporter
+- **2023-06-09** `[109]`: fix(test): correct expected test returncode assertion condition

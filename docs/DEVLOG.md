@@ -113,3 +113,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-06-12** `[110]`: Merge pull request #33 from pilvepank/test-suite
 - **2023-06-15** `[111]`: build: configure automated test target in Makefile
 - **2023-06-18** `[112]`: chore: tag v0.9.0 test-hardened milestone
+- **2023-06-21** `[113]`: test(coverage): expand assertion coverage for edge case condition #12

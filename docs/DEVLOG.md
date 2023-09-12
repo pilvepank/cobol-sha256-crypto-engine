@@ -142,3 +142,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-09-03** `[139]`: docs(pbkdf2_engine): document submodule architecture and usage in docs/SUBMODULES.md
 - **2023-09-06** `[140]`: Merge pull request #43 from pilvepank/feat-pbkdf2_engine
 - **2023-09-09** `[141]`: feat(merkle_engine): declare copybook schema MERKLE-TREE.cpy
+- **2023-09-12** `[142]`: feat(merkle_engine): add validation bounds and status condition names to MERKLE-TREE.cpy

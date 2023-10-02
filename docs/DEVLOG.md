@@ -149,3 +149,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-09-24** `[146]`: test(merkle_engine): establish automated unit test suite in sha256_hmac_test.cbl
 - **2023-09-26** `[147]`: test(merkle_engine): achieve 100% test assertion pass rate for merkle_engine
 - **2023-09-29** `[148]`: refactor(merkle_engine): optimize memory layout and eliminate redundant PERFORM calls
+- **2023-10-02** `[149]`: docs(merkle_engine): document submodule architecture and usage in docs/SUBMODULES.md

@@ -151,3 +151,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-09-29** `[148]`: refactor(merkle_engine): optimize memory layout and eliminate redundant PERFORM calls
 - **2023-10-02** `[149]`: docs(merkle_engine): document submodule architecture and usage in docs/SUBMODULES.md
 - **2023-10-05** `[150]`: Merge pull request #46 from pilvepank/feat-merkle_engine
+- **2023-10-08** `[151]`: refactor(subsystems): tighten linkage section parameter validations (step 20)

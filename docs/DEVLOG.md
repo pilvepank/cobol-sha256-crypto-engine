@@ -166,3 +166,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-11-12** `[163]`: refactor(subsystems): tighten linkage section parameter validations (step 32)
 - **2023-11-14** `[164]`: refactor(subsystems): tighten linkage section parameter validations (step 33)
 - **2023-11-17** `[165]`: refactor(subsystems): tighten linkage section parameter validations (step 34)
+- **2023-11-20** `[166]`: feat(sha256_hmac): declare copybook schema HMAC-STATE.cpy

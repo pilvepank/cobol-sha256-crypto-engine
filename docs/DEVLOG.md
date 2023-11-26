@@ -168,3 +168,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-11-17** `[165]`: refactor(subsystems): tighten linkage section parameter validations (step 34)
 - **2023-11-20** `[166]`: feat(sha256_hmac): declare copybook schema HMAC-STATE.cpy
 - **2023-11-23** `[167]`: feat(sha256_hmac): implement sha256_hmac.cbl operational routines
+- **2023-11-26** `[168]`: test(sha256_hmac): add automated unit tests in sha256_hkdf_test.cbl

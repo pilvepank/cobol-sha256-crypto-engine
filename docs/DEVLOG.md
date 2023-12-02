@@ -170,3 +170,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-11-23** `[167]`: feat(sha256_hmac): implement sha256_hmac.cbl operational routines
 - **2023-11-26** `[168]`: test(sha256_hmac): add automated unit tests in sha256_hkdf_test.cbl
 - **2023-11-29** `[169]`: Merge pull request #55 from pilvepank/feat-sha256_hmac
+- **2023-12-02** `[170]`: feat(sha256_hkdf): declare copybook schema HKDF-CONFIG.cpy

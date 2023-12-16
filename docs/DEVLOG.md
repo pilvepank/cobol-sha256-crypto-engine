@@ -175,3 +175,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-12-07** `[172]`: test(sha256_hkdf): add automated unit tests in sha256_stream_test.cbl
 - **2023-12-10** `[173]`: Merge pull request #56 from pilvepank/feat-sha256_hkdf
 - **2023-12-13** `[174]`: feat(sha256_stream_io): declare copybook schema STREAM-IO.cpy
+- **2023-12-16** `[175]`: feat(sha256_stream_io): implement sha256_stream_io.cbl operational routines

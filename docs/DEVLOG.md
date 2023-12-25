@@ -178,3 +178,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-12-16** `[175]`: feat(sha256_stream_io): implement sha256_stream_io.cbl operational routines
 - **2023-12-19** `[176]`: test(sha256_stream_io): add automated unit tests in sha256_drbg_test.cbl
 - **2023-12-22** `[177]`: Merge pull request #57 from pilvepank/feat-sha256_stream_io
+- **2023-12-25** `[178]`: feat(sha256_drbg): declare copybook schema DRBG-STATE.cpy

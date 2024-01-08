@@ -183,3 +183,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-12-30** `[180]`: test(sha256_drbg): add automated unit tests in sha256_ct_test.cbl
 - **2024-01-02** `[181]`: Merge pull request #59 from pilvepank/feat-sha256_drbg
 - **2024-01-05** `[182]`: feat(sha256_constant_time): declare copybook schema CT-COMPARE.cpy
+- **2024-01-08** `[183]`: feat(sha256_constant_time): implement sha256_constant_time.cbl operational routines

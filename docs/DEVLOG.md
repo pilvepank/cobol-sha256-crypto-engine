@@ -188,3 +188,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-01-14** `[185]`: Merge pull request #60 from pilvepank/feat-sha256_constant_time
 - **2024-01-17** `[186]`: perf(bench): add high-throughput synthetic stress benchmark suite
 - **2024-01-20** `[187]`: build: update Windows build automation script to compile all submodules
+- **2024-01-23** `[188]`: build: update Windows execution batch to run all test harnesses

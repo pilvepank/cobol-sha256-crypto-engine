@@ -1,0 +1,27 @@
+name: SHA-256 Cryptographic Engine CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install GnuCOBOL
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gnucobol
+
+      - name: Build Core Engine
+        run: |
+          cobc -free -x -Wall -Icopybooks src/sha256_engine.cbl -o sha256_engine
+
+      - name: Execute Automated Test Suite
+        run: |
+          cobc -free -x -Wall -Icopybooks tests/sha256_test.cbl src/sha256_sub.cbl src/sha256_helper.c -o sha256_test && ./sha256_test

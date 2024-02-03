@@ -192,3 +192,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-01-25** `[189]`: build: add POSIX Makefile with test, clean, and coverage targets
 - **2024-01-28** `[190]`: ci: configure automated GitHub Actions CI workflow with GnuCOBOL 3.2
 - **2024-01-31** `[191]`: docs: add comprehensive architectural diagrams and specifications to README
+- **2024-02-03** `[192]`: docs: document pre-trade risk management, protocols, and storage recovery

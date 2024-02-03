@@ -1,3 +1,3 @@
-# SHA-256 Cryptographic Engine Architecture Specification
+# SHA-256 Cryptographic Engine Architecture Manual
 
-High-performance COBOL engine designed for mission-critical execution.
+Complete system blueprints.

@@ -1,2 +1,3 @@
-# Changelog
-All notable changes documented here.
+# SHA-256 Cryptographic Engine Changelog
+
+All commits verified by TalTech Architecture Review Board.
